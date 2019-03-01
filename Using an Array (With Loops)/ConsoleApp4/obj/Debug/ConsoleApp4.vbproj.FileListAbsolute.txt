@@ -1,0 +1,22 @@
+c:\users\master\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+c:\users\master\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+c:\users\master\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+c:\users\master\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.xml
+c:\users\master\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.vbprojResolveAssemblyReference.cache
+c:\users\master\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Resources.resources
+c:\users\master\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.vbproj.GenerateResource.cache
+c:\users\master\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.vbproj.CoreCompileInputs.cache
+c:\users\master\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+c:\users\master\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.xml
+c:\users\master\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\master\Desktop\Using an Array (With Loops)\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\master\Desktop\Using an Array (With Loops)\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\master\Desktop\Using an Array (With Loops)\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\master\Desktop\Using an Array (With Loops)\ConsoleApp4\bin\Debug\ConsoleApp4.xml
+C:\Users\master\Desktop\Using an Array (With Loops)\ConsoleApp4\obj\Debug\ConsoleApp4.vbprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\Using an Array (With Loops)\ConsoleApp4\obj\Debug\ConsoleApp4.Resources.resources
+C:\Users\master\Desktop\Using an Array (With Loops)\ConsoleApp4\obj\Debug\ConsoleApp4.vbproj.GenerateResource.cache
+C:\Users\master\Desktop\Using an Array (With Loops)\ConsoleApp4\obj\Debug\ConsoleApp4.vbproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\Using an Array (With Loops)\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\master\Desktop\Using an Array (With Loops)\ConsoleApp4\obj\Debug\ConsoleApp4.xml
+C:\Users\master\Desktop\Using an Array (With Loops)\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

@@ -1,0 +1,11 @@
+c:\users\master\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.vbprojResolveAssemblyReference.cache
+c:\users\master\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.Resources.resources
+c:\users\master\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.vbproj.GenerateResource.cache
+c:\users\master\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.vbproj.CoreCompileInputs.cache
+c:\users\master\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+c:\users\master\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+c:\users\master\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+c:\users\master\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.xml
+c:\users\master\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+c:\users\master\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.xml
+c:\users\master\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
