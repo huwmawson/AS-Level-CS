@@ -1,0 +1,11 @@
+C:\Users\master\Desktop\Factorial - Recursive\Factorial - Recursive\bin\Debug\Factorial - Recursive.exe.config
+C:\Users\master\Desktop\Factorial - Recursive\Factorial - Recursive\bin\Debug\Factorial - Recursive.exe
+C:\Users\master\Desktop\Factorial - Recursive\Factorial - Recursive\bin\Debug\Factorial - Recursive.pdb
+C:\Users\master\Desktop\Factorial - Recursive\Factorial - Recursive\bin\Debug\Factorial - Recursive.xml
+C:\Users\master\Desktop\Factorial - Recursive\Factorial - Recursive\obj\Debug\Factorial - Recursive.vbprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\Factorial - Recursive\Factorial - Recursive\obj\Debug\Factorial___Recursive.Resources.resources
+C:\Users\master\Desktop\Factorial - Recursive\Factorial - Recursive\obj\Debug\Factorial - Recursive.vbproj.GenerateResource.cache
+C:\Users\master\Desktop\Factorial - Recursive\Factorial - Recursive\obj\Debug\Factorial - Recursive.vbproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\Factorial - Recursive\Factorial - Recursive\obj\Debug\Factorial - Recursive.exe
+C:\Users\master\Desktop\Factorial - Recursive\Factorial - Recursive\obj\Debug\Factorial - Recursive.xml
+C:\Users\master\Desktop\Factorial - Recursive\Factorial - Recursive\obj\Debug\Factorial - Recursive.pdb
